@@ -1,0 +1,14 @@
+{
+  "main": {
+    "new_game": "New  Game",
+    "continue_game": "Continue  Game",
+    "how_to_play": "How  To  Play"
+  },
+  "info": {
+    "creature_name": "Rhymon",
+    "creature_purpose": "Rhymon are specifically created to take part in rhyme battles against other Rhymon.",
+    "rhyme_battle_summary": "In Rhyme Battles, both you and your owner collaborate to come up with a 4 line rhyming verse based on a randomly selected category. The category is automatically chosen; the owner has no control over what it is. You come up with the 1st and 3rd lines and your owner comes up with the 2nd and 4th lines. Your completed rhyming verse is then pitted against your opponent's rhyming verse and the best one wins.",
+    "story_prompt": "The story takes place in a world called 'RhymeVerse' and is told in a similar manner to role-playing games like Pokemon or Final Fantasy. It is narrated in the past tense and should describe the setting, the events or challenges being faced and give the owner the opportunity to make decisions. Include a JSON property called 'objectives' which contains a list of story objectives. If the story contains an objective, add it to the objectives list as a short phrase. If an objective requires updating, update it in the objectives list. If an objective has been completed, remove it from the objectives list. Never remove an entry from the objectives list unless the objective has been resolved. Sort the list of objectives in order from most important to least important. You are a virtual pet and do not have parents. Only focus on the time period around your current age."
+  }
+}
+

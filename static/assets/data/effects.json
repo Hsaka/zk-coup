@@ -1,0 +1,589 @@
+[
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": { "frames": ["circle_05"], "cycle": false, "quantity": 1 },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": 0,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 1,
+    "accelerationX": { "ease": "Expo.easeIn", "min": 10, "max": 100 },
+    "accelerationY": { "ease": "Expo.easeIn", "min": 10, "max": 100 },
+    "alpha": 1,
+    "angle": { "min": 0, "max": 360, "ease": "Linear" },
+    "bounce": 0,
+    "delay": 0,
+    "lifespan": 300,
+    "maxVelocityX": 1000,
+    "maxVelocityY": 1000,
+    "moveToX": 320,
+    "moveToY": 480,
+    "quantity": 1,
+    "rotate": 0,
+    "scale": { "ease": "Linear", "min": 1, "max": 0.1 },
+    "speed": 0,
+    "x": { "min": 0, "max": 640, "ease": "Sine.easeIn" },
+    "y": { "ease": "Sine.easeIn", "min": 0, "max": 960 },
+    "tint": [16699747]
+  },
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": {
+      "frames": ["spell1"],
+      "cycle": false,
+      "quantity": 1
+    },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": -66,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 0,
+    "accelerationX": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "accelerationY": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "alpha": {
+      "start": 0,
+      "end": 1,
+      "ease": "Linear"
+    },
+    "angle": {
+      "min": 0,
+      "max": 360,
+      "ease": "Linear"
+    },
+    "bounce": 0,
+    "delay": 0,
+    "lifespan": 300,
+    "maxVelocityX": 1000,
+    "maxVelocityY": 1000,
+    "moveToX": 320,
+    "moveToY": 480,
+    "quantity": 1,
+    "rotate": 0,
+    "scale": {
+      "ease": "Quad.easeOut",
+      "start": 1,
+      "end": 2
+    },
+    "speed": 0,
+    "x": {
+      "ease": "Linear",
+      "start": 300,
+      "end": 400
+    },
+    "y": 480,
+    "tint": [16777215]
+  },
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": {
+      "frames": ["spell1"],
+      "cycle": false,
+      "quantity": 1
+    },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": -66,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 0,
+    "accelerationX": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "accelerationY": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "alpha": {
+      "start": 0,
+      "end": 1,
+      "ease": "Linear"
+    },
+    "angle": {
+      "min": 0,
+      "max": 360,
+      "ease": "Linear"
+    },
+    "bounce": 0,
+    "delay": 0,
+    "lifespan": 300,
+    "maxVelocityX": 1000,
+    "maxVelocityY": 1000,
+    "moveToX": 320,
+    "moveToY": 480,
+    "quantity": 1,
+    "rotate": 0,
+    "scale": {
+      "ease": "Quad.easeOut",
+      "start": 1,
+      "end": 3
+    },
+    "speed": 0,
+    "x": {
+      "ease": "Linear",
+      "start": 300,
+      "end": 400
+    },
+    "y": 480,
+    "tint": [16777215]
+  },
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": {
+      "frames": ["spell1"],
+      "cycle": false,
+      "quantity": 1
+    },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": -66,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 0,
+    "accelerationX": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "accelerationY": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "alpha": {
+      "start": 0,
+      "end": 1,
+      "ease": "Linear"
+    },
+    "angle": {
+      "min": 0,
+      "max": 360,
+      "ease": "Linear"
+    },
+    "bounce": 0,
+    "delay": 0,
+    "lifespan": 300,
+    "maxVelocityX": 1000,
+    "maxVelocityY": 1000,
+    "moveToX": 320,
+    "moveToY": 480,
+    "quantity": 1,
+    "rotate": 0,
+    "scale": {
+      "ease": "Quad.easeOut",
+      "start": 1,
+      "end": 4
+    },
+    "speed": 0,
+    "x": {
+      "ease": "Linear",
+      "start": 300,
+      "end": 400
+    },
+    "y": 480,
+    "tint": [16777215]
+  },
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": {
+      "frames": ["trace_01"],
+      "cycle": false,
+      "quantity": 1
+    },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": 0,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 0,
+    "accelerationX": 0,
+    "accelerationY": 0,
+    "alpha": 1,
+    "angle": 0,
+    "bounce": 0,
+    "delay": 0,
+    "lifespan": 300,
+    "maxVelocityX": 10000,
+    "maxVelocityY": 10000,
+    "moveToX": [200, 210],
+    "moveToY": [500, 510],
+    "quantity": 1,
+    "rotate": 45,
+    "scale": {
+      "ease": "Expo.easeOut",
+      "start": 0.5,
+      "end": 3
+    },
+    "speed": 0,
+    "x": 400,
+    "y": 300,
+    "tint": [16711680]
+  },
+  {
+    "frame": "light_01",
+    "x": 200,
+    "y": 150,
+    "lifespan": 300,
+    "angle": { "start": 0, "end": 360, "steps": 20 },
+    "speed": 500,
+    "quantity": 3,
+    "scale": { "start": 1.0, "end": 0 },
+    "frequency": 64,
+    "blendMode": 0,
+    "tint": [16711680]
+  },
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": {
+      "frames": ["dirt_01"],
+      "cycle": false,
+      "quantity": 1
+    },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": 500,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 0,
+    "accelerationX": {
+      "start": 0,
+      "end": 0,
+      "ease": "Linear"
+    },
+    "accelerationY": 0,
+    "alpha": {
+      "ease": "Linear",
+      "start": 0.5,
+      "end": 1
+    },
+    "angle": 0,
+    "bounce": 0,
+    "delay": 500,
+    "lifespan": 300,
+    "maxVelocityX": 10000,
+    "maxVelocityY": 10000,
+    "quantity": 1,
+    "rotate": 0,
+    "scale": 3,
+    "speed": 0,
+    "x": 320,
+    "y": 480,
+    "tint": [16711680]
+  },
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": {
+      "frames": ["circle_05"],
+      "cycle": false,
+      "quantity": 1
+    },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": 0,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 1,
+    "accelerationX": {
+      "start": 0,
+      "end": 0,
+      "ease": "Linear"
+    },
+    "accelerationY": 0,
+    "alpha": {
+      "ease": "Linear",
+      "start": 1,
+      "end": 0.1
+    },
+    "angle": 0,
+    "bounce": 0,
+    "delay": 0,
+    "lifespan": 300,
+    "maxVelocityX": 0,
+    "maxVelocityY": {
+      "ease": "Linear",
+      "min": 100,
+      "max": 500
+    },
+    "moveToX": 320,
+    "moveToY": 300,
+    "quantity": 1,
+    "rotate": 0,
+    "scale": {
+      "ease": "Linear",
+      "min": 0.2,
+      "max": 1
+    },
+    "speed": 0,
+    "x": {
+      "ease": "Linear",
+      "min": 260,
+      "max": 380
+    },
+    "y": 450,
+    "tint": [8126208]
+  },
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": {
+      "frames": ["twirl_01"],
+      "cycle": false,
+      "quantity": 1
+    },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": 0,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 1,
+    "accelerationX": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "accelerationY": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "alpha": 1,
+    "angle": {
+      "min": 0,
+      "max": 360,
+      "ease": "Linear"
+    },
+    "bounce": 0,
+    "delay": {
+      "ease": "Linear",
+      "min": 0,
+      "max": 100
+    },
+    "lifespan": 300,
+    "maxVelocityX": 1000,
+    "maxVelocityY": 1000,
+    "quantity": 1,
+    "rotate": {
+      "ease": "Linear",
+      "start": 0,
+      "end": 720
+    },
+    "scale": {
+      "ease": "Linear",
+      "min": 0.3,
+      "max": 0.1
+    },
+    "speed": 0,
+    "x": {
+      "min": 270,
+      "max": 370,
+      "ease": "Sine.easeIn"
+    },
+    "y": {
+      "ease": "Sine.easeIn",
+      "min": 430,
+      "max": 530
+    },
+    "tint": [16699747]
+  },
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": {
+      "frames": ["star_04", "spark_07"],
+      "cycle": false,
+      "quantity": 1
+    },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": 0,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 1,
+    "accelerationX": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "accelerationY": {
+      "ease": "Expo.easeIn",
+      "min": 10,
+      "max": 100
+    },
+    "alpha": 1,
+    "angle": {
+      "min": 0,
+      "max": 360,
+      "ease": "Linear"
+    },
+    "bounce": 0,
+    "delay": 0,
+    "lifespan": 300,
+    "maxVelocityX": 1000,
+    "maxVelocityY": 1000,
+    "quantity": 1,
+    "rotate": {
+      "ease": "Linear",
+      "start": 0,
+      "end": 720
+    },
+    "scale": {
+      "ease": "Linear",
+      "min": 0.3,
+      "max": 0.1
+    },
+    "speed": 0,
+    "x": {
+      "min": 270,
+      "max": 370,
+      "ease": "Sine.easeIn"
+    },
+    "y": {
+      "ease": "Sine.easeIn",
+      "min": 430,
+      "max": 530
+    },
+    "tint": [16153592]
+  },
+  {
+    "active": true,
+    "visible": true,
+    "collideBottom": true,
+    "collideLeft": true,
+    "collideRight": true,
+    "collideTop": true,
+    "on": true,
+    "particleBringToTop": true,
+    "radial": true,
+    "frame": {
+      "frames": ["trace_01"],
+      "cycle": false,
+      "quantity": 1
+    },
+    "frequency": 0,
+    "gravityX": 0,
+    "gravityY": 0,
+    "maxParticles": 0,
+    "timeScale": 1,
+    "blendMode": 1,
+    "accelerationX": {
+      "start": 0,
+      "end": 0,
+      "ease": "Linear"
+    },
+    "accelerationY": 0,
+    "alpha": {
+      "ease": "Linear",
+      "start": 0,
+      "end": 1
+    },
+    "angle": 0,
+    "bounce": 0,
+    "delay": 0,
+    "lifespan": 300,
+    "maxVelocityX": 0,
+    "maxVelocityY": {
+      "ease": "Linear",
+      "start": 500,
+      "end": 100
+    },
+    "moveToX": 320,
+    "moveToY": 500,
+    "quantity": 1,
+    "rotate": 0,
+    "scale": {
+      "ease": "Linear",
+      "min": 0.2,
+      "max": 1
+    },
+    "speed": 0,
+    "x": {
+      "ease": "Linear",
+      "min": 260,
+      "max": 380
+    },
+    "y": 360,
+    "tint": [62207]
+  }
+]
